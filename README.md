@@ -1,5 +1,5 @@
 # Restaurant Theme
-Restaurant website template setup for new clients who want a basic information website from FAI Marketing Inc.
+Restaurant website template setup for new clients who want a basic information website from Love's Web Firm.
 
 ## Setup Restaurant ##
 _Here are the steps to install Restaurant on Clients Server_
@@ -33,6 +33,6 @@ _Allow the Customers to select from these Security Packages_
 # Theme Managed By; #
 _Programmer & Linux Admin ~ C0d3 N3rd_
 ```
-aubrey@fai.marketing
-[FAI Marketing Inc](https://www.fai.marketing)
+aubrey@loveswebfirm.com
+[Love's Web Firm](https://www.loveswebfirm.com)
 ```
